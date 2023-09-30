@@ -1,2 +1,2 @@
 # Stop_Watch
-AVR microcontroller project implemented with timers and interrupts handling
+AVR microcontroller project which was implemented with timers and interrupts handling
